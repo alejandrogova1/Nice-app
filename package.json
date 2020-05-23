@@ -50,5 +50,8 @@
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "optionalDependencies": {
+    "fsevents": "^2.1.3"
+  }
 }
